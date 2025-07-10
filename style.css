@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+.question-container {
+  display: none;
+}
+.question-container.active {
+  display: block;
+}
